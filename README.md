@@ -2,8 +2,9 @@
 
 PCCA-Winter-Camp-Contest-2022 (2022/1/29)
 
-[題解](https://hackmd.io/@qwe854896/winter_camp)
-[事故報告](https://hackmd.io/@Lin2602/S1j22n70Y)
+請參考：
+- [題解](https://hackmd.io/@qwe854896/winter_camp)
+- [事故報告](https://hackmd.io/@Lin2602/S1j22n70Y)
 
 ## 最終結果
 
