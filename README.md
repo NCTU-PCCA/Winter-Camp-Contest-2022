@@ -14,5 +14,5 @@ PCCA-Winter-Camp-Contest-2022 (2022/1/29)
 
 ### div2
 
-![](div1-scoreboard.png)
+![](div2-scoreboard.png)
 
