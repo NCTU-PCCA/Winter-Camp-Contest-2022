@@ -10,9 +10,9 @@ PCCA-Winter-Camp-Contest-2022 (2022/1/29)
 
 ### div1
 
-![](div1-scoreboard.png)
+![](https://linlee.cat/public/pcca/div1.png)
 
 ### div2
 
-![](div2-scoreboard.png)
+![](https://linlee.cat/public/pcca/div2.png)
 
